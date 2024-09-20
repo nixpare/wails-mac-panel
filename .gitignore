@@ -27,6 +27,9 @@ go.work.sum
 # mac files
 .DS_Store
 
+# vendor name too long fix
+_vendor_wails_v3/internal/generator/testdata/output/
+
 # wails build files
 .task/
 bin/
