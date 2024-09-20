@@ -26,3 +26,10 @@ go.work.sum
 
 # mac files
 .DS_Store
+
+# wails build files
+.task/
+bin/
+frontend/bindings/
+frontend/dist/
+frontend/node_modules/

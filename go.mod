@@ -4,7 +4,7 @@ go 1.23.1
 
 require github.com/wailsapp/wails/v3 v3.0.0-alpha.7
 
-replace github.com/wailsapp/wails/v3 v3.0.0-alpha.7 => /Users/pare/Documents/Coding/Github/wails/v3
+replace github.com/wailsapp/wails/v3 v3.0.0-alpha.7 => ./_vendor_wails_v3
 
 require (
 	dario.cat/mergo v1.0.0 // indirect
